@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peterlubbs
 - 👀 I’m interested in improving my CI/CD and Code-As-Infrastructure practices
-- 🌱 I’m currently learning Ansible, Python, Rust
+- 🌱 I’m currently learning Docker, K8s, Helm, Ansible, GoLang, Rust
 - 💞️ I’m looking to collaborate on corporate projects for Kinsta Inc.
 - 📫 peterlubbs@kinsta.com
 
